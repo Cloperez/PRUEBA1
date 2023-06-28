@@ -1,2 +1,1 @@
-# PRUEBA1
-Repositorio
+Repositorio de PRUEBA1
